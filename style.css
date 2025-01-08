@@ -80,3 +80,18 @@ main{
 .scandory-bg{
     background-color: #fff8f3;
 }
+.skills{
+    text-align: center;
+}
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+.skills{
+    padding: 30px;
+    box-shadow: 0 6px 0 6px color(srgb red green blue);
+    border-radius: 5px;
+}
+Main section{
+    margin-top: 130px;
+}
